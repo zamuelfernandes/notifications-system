@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "202473510396",
+    "project_id": "push-notification-f6ea4",
+    "storage_bucket": "push-notification-f6ea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202473510396:android:3059adcb19ebbc25ce8e79",
+        "android_client_info": {
+          "package_name": "com.example.awesome_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202473510396-kgfbbskfg0mogsoskvlq2ocq607fk6bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBLtjiuLj5g7ybAbrjbDKqfZnJc8MQq2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202473510396-kgfbbskfg0mogsoskvlq2ocq607fk6bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202473510396-mn7sqtvqaooe3vnes27jcd9u4v81ja4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fernandez.pushNotificationAppTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202473510396:android:84618839e3f96716ce8e79",
+        "android_client_info": {
+          "package_name": "com.fernandez.push_notification_app_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202473510396-kgfbbskfg0mogsoskvlq2ocq607fk6bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBLtjiuLj5g7ybAbrjbDKqfZnJc8MQq2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202473510396-kgfbbskfg0mogsoskvlq2ocq607fk6bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202473510396-mn7sqtvqaooe3vnes27jcd9u4v81ja4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fernandez.pushNotificationAppTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
